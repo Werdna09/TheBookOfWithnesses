@@ -1,0 +1,13 @@
+id: "01.03"
+nazev: "Vřesov: Bez ohlášení"
+pripad: "01_Propitia_Vresov"
+poradi: 3
+stav: "osnova_v0_1"
+lokace: "Vřesov a mokřiny"
+faze: "druha_navsteva"
+pocasi: "destivy_soumrak"
+co_hrac_vi: "Svědek získává nezávislé zdroje a nachází opis oznámení"
+obsahuje_spoilery: true
+soubory:
+  - PRIBEH.md
+  - ATMOSFERA.md

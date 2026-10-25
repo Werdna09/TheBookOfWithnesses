@@ -1,0 +1,15 @@
+# Story project: plain-text sources are versioned.
+.DS_Store
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.cache/
+.tmp/
+# Local exports and generated files, not canonical source.
+build/
+dist/
+exports/

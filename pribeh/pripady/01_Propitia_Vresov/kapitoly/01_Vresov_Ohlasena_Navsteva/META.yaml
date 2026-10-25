@@ -1,0 +1,13 @@
+id: "01.01"
+nazev: "Vřesov: Předem připravené svědectví"
+pripad: "01_Propitia_Vresov"
+poradi: 1
+stav: "osnova_v0_1"
+lokace: "Vřesov a mokřiny"
+faze: "prvni_navsteva"
+pocasi: "podzimni_dopoledne"
+co_hrac_vi: "Svědek přijímá připravené indicie, netuší o ohlášení"
+obsahuje_spoilery: true
+soubory:
+  - PRIBEH.md
+  - ATMOSFERA.md

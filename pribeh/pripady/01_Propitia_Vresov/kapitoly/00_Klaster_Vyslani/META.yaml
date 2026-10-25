@@ -1,0 +1,14 @@
+id: "01.00"
+nazev: "Prolog: Klášter a vyslání"
+pripad: "01_Propitia_Vresov"
+poradi: 0
+stav: "osnova_v0_1"
+lokace: "Klášter Sedmi svědectví"
+faze: "pred_prvni_navstevou"
+pocasi: "chladne_rano"
+co_hrac_vi: "Svědek věří řádu; neví o předběžném oznámení"
+obsahuje_spoilery: true
+soubory:
+  - PRIBEH.md
+  - ATMOSFERA.md
+  - UKAZKA_SCENY.md

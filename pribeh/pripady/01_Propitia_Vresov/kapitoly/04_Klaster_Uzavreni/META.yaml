@@ -1,0 +1,13 @@
+id: "01.04"
+nazev: "Klášter: Opravená zpráva"
+pripad: "01_Propitia_Vresov"
+poradi: 4
+stav: "osnova_v0_1"
+lokace: "Klášter Sedmi svědectví"
+faze: "uzavreni_pripadu"
+pocasi: "jasne_dopoledne"
+co_hrac_vi: "Svědek ví o místním podvodu a úředním ohlášení, netuší pravdu o řádu"
+obsahuje_spoilery: true
+soubory:
+  - PRIBEH.md
+  - ATMOSFERA.md

@@ -1,0 +1,13 @@
+id: "01.02"
+nazev: "Klášter: Rozpor"
+pripad: "01_Propitia_Vresov"
+poradi: 2
+stav: "osnova_v0_1"
+lokace: "Klášter Sedmi svědectví"
+faze: "mezihra"
+pocasi: "pozdni_vecer"
+co_hrac_vi: "Svědek nachází první přirozené vysvětlení"
+obsahuje_spoilery: true
+soubory:
+  - PRIBEH.md
+  - ATMOSFERA.md
